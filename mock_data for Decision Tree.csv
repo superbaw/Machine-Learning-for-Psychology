@@ -1,0 +1,501 @@
+Board Exam Result,Math Grade,English Grade,Science Grade,Scholar Status,Working Student Status
+Failed,63,85,77,Scholar,Working Student
+Failed,62,69,69,Not Scholar,Not Working Student
+Failed,63,64,92,Scholar,Not Working Student
+Passed,66,63,82,Not Scholar,Working Student
+Failed,94,83,82,Not Scholar,Working Student
+Passed,90,85,61,Not Scholar,Working Student
+Failed,76,95,98,Not Scholar,Working Student
+Passed,89,87,82,Not Scholar,Working Student
+Failed,64,88,79,Not Scholar,Not Working Student
+Failed,85,61,74,Not Scholar,Not Working Student
+Passed,62,80,85,Not Scholar,Working Student
+Passed,61,74,67,Not Scholar,Working Student
+Passed,79,72,88,Scholar,Working Student
+Failed,75,72,83,Scholar,Not Working Student
+Passed,72,62,76,Scholar,Not Working Student
+Failed,92,96,76,Not Scholar,Not Working Student
+Passed,67,92,90,Scholar,Working Student
+Passed,100,61,82,Not Scholar,Not Working Student
+Passed,71,75,63,Not Scholar,Working Student
+Passed,85,88,73,Scholar,Working Student
+Passed,73,78,85,Not Scholar,Working Student
+Passed,91,94,72,Not Scholar,Not Working Student
+Passed,89,74,87,Scholar,Not Working Student
+Passed,94,84,73,Scholar,Working Student
+Failed,71,65,85,Scholar,Working Student
+Failed,83,79,62,Scholar,Working Student
+Failed,79,82,92,Not Scholar,Working Student
+Failed,86,77,65,Not Scholar,Not Working Student
+Passed,78,75,77,Not Scholar,Working Student
+Passed,96,94,97,Scholar,Not Working Student
+Failed,75,85,80,Scholar,Not Working Student
+Passed,61,75,81,Not Scholar,Working Student
+Failed,79,62,60,Not Scholar,Working Student
+Failed,60,98,86,Scholar,Working Student
+Failed,89,70,71,Scholar,Working Student
+Failed,83,83,92,Scholar,Working Student
+Failed,100,72,71,Not Scholar,Working Student
+Passed,64,86,82,Scholar,Not Working Student
+Failed,71,79,92,Not Scholar,Working Student
+Failed,75,75,67,Not Scholar,Working Student
+Failed,96,80,67,Not Scholar,Not Working Student
+Failed,76,87,91,Scholar,Not Working Student
+Failed,99,69,88,Not Scholar,Not Working Student
+Passed,97,75,74,Scholar,Working Student
+Failed,91,69,72,Not Scholar,Not Working Student
+Passed,99,92,76,Not Scholar,Working Student
+Failed,97,93,93,Not Scholar,Working Student
+Passed,97,91,100,Not Scholar,Not Working Student
+Passed,93,97,96,Not Scholar,Working Student
+Passed,67,89,88,Not Scholar,Working Student
+Failed,69,83,98,Not Scholar,Working Student
+Passed,93,94,75,Scholar,Not Working Student
+Passed,78,88,97,Scholar,Not Working Student
+Passed,66,95,86,Not Scholar,Working Student
+Failed,91,95,74,Scholar,Not Working Student
+Passed,95,96,88,Scholar,Working Student
+Failed,88,68,65,Scholar,Working Student
+Failed,60,88,94,Scholar,Not Working Student
+Failed,98,100,75,Not Scholar,Working Student
+Passed,100,94,79,Scholar,Working Student
+Failed,81,88,94,Not Scholar,Not Working Student
+Passed,89,71,69,Scholar,Not Working Student
+Passed,67,62,77,Scholar,Working Student
+Passed,75,89,85,Not Scholar,Working Student
+Passed,64,77,72,Scholar,Working Student
+Passed,94,93,79,Scholar,Not Working Student
+Failed,67,66,64,Not Scholar,Working Student
+Passed,95,75,92,Not Scholar,Not Working Student
+Failed,77,70,73,Scholar,Working Student
+Passed,79,98,61,Scholar,Not Working Student
+Failed,68,70,92,Scholar,Not Working Student
+Passed,62,67,73,Not Scholar,Working Student
+Passed,91,77,63,Scholar,Not Working Student
+Failed,95,78,62,Not Scholar,Working Student
+Failed,94,87,98,Scholar,Working Student
+Failed,69,75,99,Scholar,Not Working Student
+Failed,77,77,88,Not Scholar,Not Working Student
+Failed,85,91,67,Not Scholar,Not Working Student
+Failed,96,84,81,Scholar,Working Student
+Failed,74,98,75,Scholar,Not Working Student
+Failed,66,98,86,Not Scholar,Working Student
+Passed,84,83,83,Scholar,Working Student
+Passed,80,100,73,Scholar,Not Working Student
+Passed,98,82,82,Scholar,Not Working Student
+Failed,79,74,97,Not Scholar,Working Student
+Passed,88,82,98,Scholar,Not Working Student
+Passed,94,63,87,Scholar,Not Working Student
+Passed,60,76,99,Scholar,Working Student
+Passed,77,91,71,Scholar,Not Working Student
+Passed,94,78,99,Not Scholar,Working Student
+Failed,96,91,93,Scholar,Working Student
+Passed,74,78,61,Not Scholar,Not Working Student
+Failed,100,79,99,Scholar,Working Student
+Failed,82,69,67,Scholar,Working Student
+Passed,66,77,68,Not Scholar,Working Student
+Failed,60,96,73,Scholar,Working Student
+Passed,94,97,72,Not Scholar,Not Working Student
+Failed,80,84,67,Scholar,Not Working Student
+Failed,88,78,70,Not Scholar,Working Student
+Failed,66,79,74,Scholar,Not Working Student
+Passed,67,76,80,Scholar,Not Working Student
+Passed,81,65,67,Not Scholar,Working Student
+Passed,68,86,78,Not Scholar,Working Student
+Passed,62,87,99,Scholar,Not Working Student
+Passed,99,83,72,Not Scholar,Working Student
+Failed,91,84,76,Scholar,Not Working Student
+Passed,61,74,89,Scholar,Not Working Student
+Failed,66,97,80,Scholar,Working Student
+Failed,100,98,85,Not Scholar,Not Working Student
+Failed,68,85,87,Scholar,Not Working Student
+Failed,67,66,97,Scholar,Not Working Student
+Failed,94,60,88,Scholar,Not Working Student
+Failed,79,62,95,Scholar,Not Working Student
+Passed,62,74,88,Scholar,Working Student
+Passed,76,87,92,Scholar,Not Working Student
+Failed,93,76,72,Scholar,Working Student
+Failed,72,66,62,Not Scholar,Working Student
+Failed,72,94,63,Scholar,Not Working Student
+Passed,80,100,74,Scholar,Not Working Student
+Failed,69,93,77,Scholar,Not Working Student
+Passed,60,88,80,Scholar,Working Student
+Failed,87,96,97,Scholar,Not Working Student
+Failed,65,88,76,Scholar,Not Working Student
+Failed,71,64,76,Scholar,Not Working Student
+Passed,85,90,84,Not Scholar,Working Student
+Failed,94,90,63,Not Scholar,Working Student
+Failed,92,75,74,Scholar,Working Student
+Failed,63,67,62,Scholar,Not Working Student
+Passed,95,98,65,Not Scholar,Working Student
+Failed,96,100,68,Not Scholar,Working Student
+Passed,74,87,81,Scholar,Not Working Student
+Failed,94,79,90,Scholar,Working Student
+Passed,63,72,79,Scholar,Working Student
+Passed,76,94,79,Not Scholar,Working Student
+Failed,77,91,94,Not Scholar,Not Working Student
+Failed,77,80,90,Not Scholar,Working Student
+Passed,79,61,100,Scholar,Not Working Student
+Failed,73,67,63,Not Scholar,Working Student
+Failed,77,70,73,Not Scholar,Working Student
+Passed,80,76,62,Scholar,Not Working Student
+Failed,77,87,74,Not Scholar,Not Working Student
+Failed,61,68,78,Not Scholar,Working Student
+Failed,99,91,62,Not Scholar,Working Student
+Passed,85,87,99,Not Scholar,Working Student
+Failed,61,88,66,Scholar,Working Student
+Passed,78,66,74,Not Scholar,Working Student
+Failed,97,60,93,Scholar,Not Working Student
+Passed,69,82,100,Scholar,Working Student
+Passed,67,98,62,Not Scholar,Not Working Student
+Failed,64,73,62,Not Scholar,Working Student
+Failed,73,99,78,Not Scholar,Working Student
+Failed,90,76,71,Not Scholar,Not Working Student
+Passed,61,62,71,Not Scholar,Working Student
+Passed,83,83,61,Scholar,Working Student
+Passed,74,95,60,Not Scholar,Not Working Student
+Passed,77,95,65,Not Scholar,Working Student
+Passed,70,80,70,Scholar,Working Student
+Passed,86,100,70,Not Scholar,Working Student
+Passed,98,71,92,Not Scholar,Not Working Student
+Failed,91,93,93,Scholar,Not Working Student
+Failed,73,61,73,Not Scholar,Working Student
+Passed,91,71,83,Not Scholar,Not Working Student
+Failed,73,83,73,Scholar,Working Student
+Failed,63,80,80,Not Scholar,Working Student
+Passed,81,88,71,Not Scholar,Not Working Student
+Passed,67,76,61,Scholar,Not Working Student
+Failed,70,79,76,Not Scholar,Not Working Student
+Failed,67,76,92,Scholar,Not Working Student
+Failed,99,98,84,Not Scholar,Working Student
+Failed,76,78,73,Not Scholar,Not Working Student
+Passed,84,74,97,Scholar,Working Student
+Passed,71,92,99,Scholar,Working Student
+Passed,64,69,96,Scholar,Working Student
+Failed,78,95,79,Scholar,Not Working Student
+Failed,62,74,90,Scholar,Working Student
+Passed,92,82,91,Scholar,Not Working Student
+Passed,78,65,98,Not Scholar,Working Student
+Failed,76,68,81,Scholar,Not Working Student
+Failed,67,92,72,Not Scholar,Not Working Student
+Passed,80,97,93,Not Scholar,Working Student
+Passed,71,64,89,Scholar,Not Working Student
+Failed,96,99,81,Not Scholar,Working Student
+Passed,100,73,65,Not Scholar,Not Working Student
+Passed,63,66,65,Not Scholar,Not Working Student
+Failed,84,85,99,Scholar,Not Working Student
+Failed,73,87,74,Scholar,Working Student
+Failed,66,83,66,Not Scholar,Working Student
+Passed,87,60,76,Not Scholar,Working Student
+Passed,76,65,70,Scholar,Working Student
+Failed,71,70,82,Not Scholar,Not Working Student
+Failed,77,88,76,Scholar,Not Working Student
+Passed,65,71,77,Not Scholar,Not Working Student
+Failed,85,71,85,Not Scholar,Working Student
+Failed,95,72,84,Scholar,Not Working Student
+Passed,95,72,71,Not Scholar,Working Student
+Failed,92,97,88,Not Scholar,Working Student
+Passed,99,86,64,Scholar,Not Working Student
+Failed,91,96,86,Scholar,Not Working Student
+Failed,66,79,83,Not Scholar,Not Working Student
+Passed,96,83,82,Scholar,Working Student
+Failed,83,87,75,Not Scholar,Not Working Student
+Failed,75,96,72,Not Scholar,Not Working Student
+Failed,78,78,72,Scholar,Not Working Student
+Failed,88,67,78,Not Scholar,Not Working Student
+Passed,82,86,71,Not Scholar,Not Working Student
+Failed,97,99,79,Not Scholar,Working Student
+Passed,95,76,80,Not Scholar,Working Student
+Passed,100,62,91,Not Scholar,Working Student
+Passed,95,89,84,Scholar,Not Working Student
+Passed,72,61,84,Scholar,Working Student
+Passed,76,95,63,Not Scholar,Working Student
+Failed,90,89,91,Not Scholar,Not Working Student
+Passed,92,82,60,Not Scholar,Working Student
+Failed,79,96,81,Scholar,Not Working Student
+Failed,73,78,74,Scholar,Not Working Student
+Passed,60,88,60,Not Scholar,Not Working Student
+Failed,65,63,69,Not Scholar,Not Working Student
+Passed,66,70,60,Not Scholar,Working Student
+Passed,81,87,75,Not Scholar,Working Student
+Passed,70,95,66,Scholar,Not Working Student
+Failed,82,63,65,Not Scholar,Not Working Student
+Passed,91,60,64,Not Scholar,Not Working Student
+Passed,94,98,71,Not Scholar,Not Working Student
+Failed,85,99,92,Not Scholar,Working Student
+Passed,73,77,91,Not Scholar,Working Student
+Failed,62,82,99,Not Scholar,Working Student
+Failed,91,87,84,Not Scholar,Working Student
+Passed,80,62,78,Scholar,Working Student
+Passed,83,83,95,Scholar,Working Student
+Failed,98,94,73,Scholar,Working Student
+Passed,60,74,93,Not Scholar,Not Working Student
+Failed,95,61,74,Not Scholar,Not Working Student
+Passed,66,86,63,Scholar,Working Student
+Failed,80,68,67,Not Scholar,Not Working Student
+Failed,97,96,61,Scholar,Not Working Student
+Passed,73,77,62,Not Scholar,Not Working Student
+Passed,65,65,74,Not Scholar,Not Working Student
+Failed,74,83,74,Not Scholar,Not Working Student
+Passed,96,78,97,Not Scholar,Working Student
+Failed,88,72,85,Scholar,Working Student
+Passed,92,60,100,Not Scholar,Working Student
+Failed,62,87,97,Scholar,Working Student
+Passed,89,76,79,Scholar,Working Student
+Failed,100,64,69,Scholar,Not Working Student
+Passed,98,88,92,Scholar,Working Student
+Failed,77,63,97,Not Scholar,Not Working Student
+Failed,79,84,83,Scholar,Not Working Student
+Failed,79,96,69,Not Scholar,Not Working Student
+Failed,86,99,96,Scholar,Not Working Student
+Passed,98,92,96,Scholar,Not Working Student
+Failed,87,78,91,Scholar,Working Student
+Passed,61,89,76,Not Scholar,Not Working Student
+Failed,90,74,97,Not Scholar,Not Working Student
+Failed,64,89,72,Scholar,Not Working Student
+Passed,92,94,75,Scholar,Working Student
+Passed,95,96,100,Scholar,Not Working Student
+Failed,70,91,100,Scholar,Not Working Student
+Passed,68,70,81,Not Scholar,Working Student
+Passed,66,91,94,Not Scholar,Not Working Student
+Passed,60,90,60,Not Scholar,Working Student
+Passed,81,80,90,Scholar,Working Student
+Passed,74,76,81,Not Scholar,Not Working Student
+Passed,93,97,75,Not Scholar,Working Student
+Failed,91,76,95,Scholar,Working Student
+Failed,65,90,80,Scholar,Not Working Student
+Failed,68,76,91,Not Scholar,Working Student
+Passed,62,90,69,Not Scholar,Not Working Student
+Passed,73,66,70,Scholar,Not Working Student
+Failed,65,84,98,Scholar,Not Working Student
+Failed,71,67,65,Scholar,Working Student
+Failed,69,60,71,Not Scholar,Not Working Student
+Failed,87,95,62,Not Scholar,Working Student
+Failed,98,95,85,Scholar,Working Student
+Passed,82,90,88,Scholar,Working Student
+Passed,82,92,71,Not Scholar,Not Working Student
+Passed,84,99,74,Not Scholar,Not Working Student
+Failed,91,72,65,Not Scholar,Working Student
+Passed,90,69,61,Scholar,Not Working Student
+Failed,71,64,64,Not Scholar,Working Student
+Failed,85,80,99,Scholar,Not Working Student
+Passed,100,61,68,Not Scholar,Not Working Student
+Failed,86,73,67,Scholar,Working Student
+Failed,88,63,91,Scholar,Not Working Student
+Passed,88,78,60,Scholar,Working Student
+Failed,87,99,84,Not Scholar,Working Student
+Failed,84,87,64,Scholar,Not Working Student
+Failed,85,62,64,Scholar,Not Working Student
+Passed,82,72,92,Scholar,Working Student
+Failed,68,62,65,Scholar,Not Working Student
+Failed,81,78,69,Scholar,Not Working Student
+Failed,85,69,64,Not Scholar,Not Working Student
+Failed,63,66,99,Not Scholar,Not Working Student
+Failed,90,85,84,Scholar,Working Student
+Passed,90,82,95,Not Scholar,Working Student
+Failed,78,80,75,Not Scholar,Working Student
+Failed,67,97,61,Scholar,Working Student
+Failed,99,67,69,Not Scholar,Working Student
+Passed,91,94,66,Scholar,Not Working Student
+Failed,62,63,85,Scholar,Working Student
+Passed,99,77,96,Scholar,Not Working Student
+Failed,68,79,90,Not Scholar,Working Student
+Passed,82,76,84,Not Scholar,Working Student
+Passed,61,64,76,Not Scholar,Working Student
+Failed,95,81,66,Not Scholar,Working Student
+Passed,60,88,69,Scholar,Not Working Student
+Passed,88,63,81,Not Scholar,Not Working Student
+Failed,83,99,78,Not Scholar,Working Student
+Passed,82,62,94,Scholar,Not Working Student
+Passed,94,79,74,Scholar,Not Working Student
+Passed,69,91,84,Scholar,Working Student
+Failed,85,91,70,Not Scholar,Working Student
+Failed,81,73,91,Scholar,Not Working Student
+Failed,99,94,98,Scholar,Not Working Student
+Failed,88,79,69,Not Scholar,Working Student
+Passed,67,64,71,Scholar,Not Working Student
+Failed,84,90,70,Scholar,Not Working Student
+Failed,62,89,94,Not Scholar,Working Student
+Failed,89,77,96,Scholar,Working Student
+Passed,60,97,77,Not Scholar,Not Working Student
+Passed,64,64,93,Not Scholar,Not Working Student
+Passed,72,74,87,Not Scholar,Not Working Student
+Passed,99,61,98,Scholar,Not Working Student
+Failed,67,90,78,Not Scholar,Working Student
+Passed,64,73,60,Scholar,Not Working Student
+Passed,75,80,86,Scholar,Working Student
+Failed,90,81,79,Scholar,Working Student
+Failed,79,77,78,Scholar,Not Working Student
+Failed,98,96,75,Scholar,Not Working Student
+Failed,69,97,72,Not Scholar,Not Working Student
+Passed,91,75,86,Scholar,Working Student
+Passed,94,74,85,Scholar,Not Working Student
+Failed,61,94,84,Scholar,Working Student
+Failed,66,78,91,Not Scholar,Not Working Student
+Failed,72,77,74,Scholar,Working Student
+Failed,93,61,83,Scholar,Not Working Student
+Failed,79,62,98,Not Scholar,Not Working Student
+Passed,75,72,84,Not Scholar,Not Working Student
+Failed,100,99,73,Scholar,Working Student
+Passed,81,98,84,Not Scholar,Working Student
+Failed,81,70,79,Scholar,Not Working Student
+Passed,92,98,87,Scholar,Not Working Student
+Passed,76,97,95,Scholar,Working Student
+Failed,90,99,66,Not Scholar,Working Student
+Passed,86,68,60,Scholar,Not Working Student
+Passed,83,79,67,Not Scholar,Working Student
+Failed,69,96,63,Scholar,Not Working Student
+Passed,63,72,65,Scholar,Working Student
+Failed,64,71,72,Scholar,Working Student
+Passed,70,64,97,Scholar,Not Working Student
+Failed,68,62,92,Not Scholar,Not Working Student
+Failed,89,87,74,Scholar,Working Student
+Failed,82,68,97,Scholar,Not Working Student
+Failed,100,85,75,Not Scholar,Not Working Student
+Failed,68,69,75,Not Scholar,Not Working Student
+Failed,85,84,93,Scholar,Not Working Student
+Passed,88,84,98,Not Scholar,Working Student
+Failed,99,96,67,Not Scholar,Working Student
+Passed,80,75,79,Scholar,Working Student
+Passed,68,92,62,Scholar,Working Student
+Passed,95,92,64,Scholar,Working Student
+Failed,98,87,77,Not Scholar,Not Working Student
+Failed,89,82,60,Not Scholar,Not Working Student
+Failed,92,96,62,Scholar,Working Student
+Passed,89,64,63,Scholar,Not Working Student
+Failed,93,65,85,Not Scholar,Not Working Student
+Failed,61,88,89,Scholar,Not Working Student
+Passed,65,81,92,Not Scholar,Working Student
+Failed,89,83,96,Scholar,Working Student
+Passed,71,67,81,Not Scholar,Not Working Student
+Failed,92,90,75,Not Scholar,Working Student
+Passed,79,79,60,Not Scholar,Not Working Student
+Passed,80,88,74,Scholar,Not Working Student
+Failed,64,64,92,Not Scholar,Working Student
+Passed,90,66,78,Not Scholar,Working Student
+Failed,99,97,75,Scholar,Working Student
+Passed,64,67,67,Scholar,Not Working Student
+Failed,88,87,96,Scholar,Not Working Student
+Failed,92,82,65,Not Scholar,Not Working Student
+Failed,93,68,83,Scholar,Working Student
+Passed,71,97,80,Scholar,Not Working Student
+Failed,94,82,75,Not Scholar,Working Student
+Failed,67,80,95,Not Scholar,Working Student
+Passed,100,100,98,Scholar,Not Working Student
+Failed,64,78,87,Scholar,Not Working Student
+Failed,88,92,94,Scholar,Working Student
+Failed,66,70,97,Not Scholar,Working Student
+Failed,96,85,91,Scholar,Not Working Student
+Failed,71,95,95,Not Scholar,Working Student
+Failed,65,66,70,Scholar,Not Working Student
+Passed,88,86,90,Not Scholar,Not Working Student
+Passed,97,84,82,Scholar,Not Working Student
+Passed,65,68,90,Not Scholar,Working Student
+Failed,76,68,98,Scholar,Not Working Student
+Failed,60,73,69,Scholar,Working Student
+Passed,61,63,95,Not Scholar,Not Working Student
+Failed,89,80,73,Not Scholar,Not Working Student
+Passed,68,77,69,Not Scholar,Not Working Student
+Passed,61,96,86,Not Scholar,Not Working Student
+Passed,66,76,96,Scholar,Not Working Student
+Passed,98,94,89,Not Scholar,Working Student
+Failed,81,66,73,Not Scholar,Working Student
+Passed,60,94,80,Scholar,Working Student
+Passed,87,63,87,Not Scholar,Not Working Student
+Passed,76,79,93,Not Scholar,Working Student
+Passed,81,62,71,Scholar,Not Working Student
+Failed,100,78,87,Not Scholar,Not Working Student
+Passed,84,61,70,Scholar,Working Student
+Passed,95,88,84,Not Scholar,Not Working Student
+Passed,97,60,75,Scholar,Not Working Student
+Passed,100,81,80,Not Scholar,Not Working Student
+Passed,69,60,74,Scholar,Not Working Student
+Failed,90,65,75,Scholar,Working Student
+Failed,68,78,79,Not Scholar,Working Student
+Failed,99,70,77,Scholar,Not Working Student
+Failed,87,90,100,Not Scholar,Not Working Student
+Failed,67,88,85,Not Scholar,Working Student
+Passed,78,93,66,Not Scholar,Working Student
+Failed,96,61,60,Not Scholar,Not Working Student
+Passed,72,71,79,Not Scholar,Not Working Student
+Passed,88,76,68,Not Scholar,Working Student
+Failed,92,93,99,Not Scholar,Working Student
+Passed,64,91,88,Not Scholar,Not Working Student
+Passed,67,97,82,Not Scholar,Not Working Student
+Failed,70,63,89,Scholar,Working Student
+Passed,64,79,95,Not Scholar,Not Working Student
+Passed,70,72,65,Not Scholar,Not Working Student
+Failed,95,69,91,Scholar,Working Student
+Failed,81,90,95,Scholar,Working Student
+Failed,92,63,76,Scholar,Working Student
+Passed,80,98,95,Scholar,Not Working Student
+Failed,71,74,67,Not Scholar,Working Student
+Failed,96,82,96,Not Scholar,Not Working Student
+Failed,93,81,76,Not Scholar,Working Student
+Failed,97,80,92,Scholar,Not Working Student
+Passed,67,86,65,Scholar,Not Working Student
+Passed,66,72,81,Scholar,Working Student
+Passed,65,70,68,Scholar,Working Student
+Failed,87,71,74,Not Scholar,Not Working Student
+Failed,82,61,62,Not Scholar,Working Student
+Failed,99,69,85,Scholar,Not Working Student
+Passed,75,76,100,Not Scholar,Not Working Student
+Failed,82,92,60,Scholar,Not Working Student
+Passed,93,89,91,Scholar,Not Working Student
+Passed,87,76,72,Scholar,Working Student
+Failed,71,72,76,Not Scholar,Not Working Student
+Passed,98,79,70,Scholar,Not Working Student
+Failed,79,95,93,Not Scholar,Working Student
+Passed,85,61,74,Not Scholar,Working Student
+Passed,70,93,87,Not Scholar,Not Working Student
+Failed,61,89,76,Not Scholar,Working Student
+Failed,65,100,78,Not Scholar,Not Working Student
+Passed,68,74,96,Not Scholar,Working Student
+Failed,77,68,82,Scholar,Working Student
+Failed,94,74,94,Scholar,Not Working Student
+Passed,82,86,87,Not Scholar,Working Student
+Passed,70,96,97,Scholar,Working Student
+Passed,78,83,75,Scholar,Not Working Student
+Failed,71,73,81,Not Scholar,Working Student
+Passed,64,66,67,Not Scholar,Working Student
+Failed,95,62,67,Scholar,Working Student
+Failed,86,86,92,Scholar,Working Student
+Passed,84,93,96,Not Scholar,Not Working Student
+Failed,85,64,89,Scholar,Not Working Student
+Passed,78,86,89,Scholar,Working Student
+Passed,64,90,91,Not Scholar,Working Student
+Failed,66,95,69,Scholar,Not Working Student
+Passed,66,89,88,Not Scholar,Not Working Student
+Passed,65,97,61,Not Scholar,Working Student
+Passed,90,93,66,Scholar,Not Working Student
+Failed,81,65,83,Scholar,Working Student
+Passed,74,88,86,Scholar,Working Student
+Failed,83,99,80,Scholar,Working Student
+Passed,62,79,98,Scholar,Not Working Student
+Passed,87,77,65,Not Scholar,Not Working Student
+Failed,83,88,77,Scholar,Not Working Student
+Passed,63,70,97,Not Scholar,Not Working Student
+Passed,100,95,85,Scholar,Not Working Student
+Failed,80,73,95,Not Scholar,Working Student
+Failed,66,69,62,Not Scholar,Working Student
+Failed,93,62,88,Not Scholar,Not Working Student
+Failed,100,97,99,Not Scholar,Working Student
+Passed,100,69,72,Scholar,Working Student
+Failed,80,71,61,Scholar,Working Student
+Failed,61,63,79,Not Scholar,Not Working Student
+Passed,79,71,85,Not Scholar,Not Working Student
+Failed,92,96,84,Scholar,Working Student
+Passed,66,93,98,Scholar,Working Student
+Failed,69,69,86,Not Scholar,Not Working Student
+Failed,99,62,86,Not Scholar,Working Student
+Failed,69,90,94,Scholar,Working Student
+Passed,79,81,61,Scholar,Working Student
+Failed,88,97,81,Not Scholar,Working Student
+Passed,86,80,83,Not Scholar,Working Student
+Passed,99,89,88,Scholar,Not Working Student
+Failed,67,74,97,Not Scholar,Not Working Student
+Passed,66,68,87,Scholar,Working Student
+Passed,89,73,73,Scholar,Not Working Student
+Failed,61,92,86,Not Scholar,Working Student
+Passed,87,81,63,Scholar,Not Working Student
+Passed,68,94,88,Not Scholar,Not Working Student
