@@ -1,0 +1,501 @@
+Diagnosed with PTSD,Military Rank,Military Position,Number of Tours,Age,Injury received,Country of assignment
+Yes,Sergeant,Infantry,4,42,No Injury,USA
+Yes,Sergeant,Medic,5,41,No Injury,Germany
+Yes,Corporal,Infantry,5,52,Anxiety disorder,Canada
+No,Sergeant,Air Force,4,35,Burns,UK
+Yes,Lieutenant,Infantry,2,25,No Injury,Canada
+No,Private,Air Force,4,57,Depression,UK
+No,Private,Medic,1,39,Burns,UK
+Yes,Lieutenant,Infantry,1,42,Traumatic brain injury,Australia
+Yes,Private,Infantry,2,24,Explosion trauma,Canada
+Yes,Private,Air Force,3,21,Shrapnel injury,UK
+No,Sergeant,Infantry,3,37,No Injury,Germany
+No,Sergeant,Artillery,2,22,Burns,UK
+No,Private,Air Force,5,57,Amputation,UK
+Yes,Sergeant,Artillery,2,54,Explosion trauma,UK
+Yes,Private,Infantry,3,25,Gunshot wound,Australia
+No,Lieutenant,Artillery,3,48,Gunshot wound,Germany
+No,Sergeant,Infantry,2,54,No Injury,Australia
+No,Captain,Medic,5,31,Gunshot wound,Australia
+Yes,Captain,Artillery,2,31,No Injury,Germany
+No,Corporal,Infantry,1,33,Explosion trauma and Substance abuse disorder,USA
+Yes,Private,Navy,4,22,Traumatic brain injury,UK
+Yes,Corporal,Navy,4,28,Anxiety disorder,USA
+No,Private,Medic,1,45,No Injury,USA
+Yes,Sergeant,Medic,1,58,Traumatic brain injury,Canada
+Yes,Corporal,Artillery,4,34,No Injury,Germany
+Yes,Private,Navy,2,51,Burns and Traumatic brain injury,Germany
+Yes,Corporal,Medic,2,40,No Injury,USA
+No,Lieutenant,Navy,1,49,Burns and Anxiety disorder,Australia
+Yes,Corporal,Medic,2,26,No Injury,Canada
+Yes,Corporal,Infantry,3,24,Depression,Australia
+Yes,Captain,Navy,1,23,No Injury,Germany
+Yes,Sergeant,Medic,4,34,Gunshot wound,Germany
+No,Sergeant,Air Force,3,32,Depression,Germany
+Yes,Captain,Medic,3,60,Explosion trauma,USA
+No,Sergeant,Infantry,4,52,No Injury,Germany
+Yes,Corporal,Infantry,3,32,Depression,USA
+No,Sergeant,Navy,3,47,Gunshot wound and Substance abuse disorder,Australia
+Yes,Lieutenant,Air Force,2,41,Amputation and Depression,Australia
+No,Corporal,Navy,3,38,Shrapnel injury and Traumatic brain injury,USA
+No,Captain,Artillery,3,60,Anxiety disorder,Canada
+Yes,Sergeant,Infantry,1,31,Explosion trauma,Australia
+No,Private,Medic,4,42,No Injury,Germany
+No,Private,Artillery,2,42,Shrapnel injury,Germany
+No,Sergeant,Infantry,1,47,Gunshot wound,USA
+No,Captain,Air Force,5,59,Amputation,Germany
+Yes,Private,Air Force,3,37,Amputation and Depression,Canada
+No,Captain,Navy,4,39,Shrapnel injury,Australia
+Yes,Private,Artillery,4,52,PTSD,Canada
+No,Private,Air Force,1,59,Anxiety disorder,Australia
+Yes,Private,Artillery,1,20,No Injury,Germany
+No,Private,Infantry,4,45,No Injury,Germany
+Yes,Private,Medic,2,45,PTSD,Canada
+Yes,Private,Infantry,1,18,PTSD,Germany
+No,Sergeant,Medic,2,48,Amputation and PTSD,USA
+Yes,Captain,Navy,4,30,Shrapnel injury,Australia
+No,Corporal,Medic,2,31,Gunshot wound,Germany
+Yes,Corporal,Artillery,3,60,Gunshot wound,UK
+No,Captain,Artillery,2,48,Shrapnel injury and Anxiety disorder,UK
+Yes,Lieutenant,Artillery,5,40,No Injury,UK
+Yes,Corporal,Artillery,5,27,No Injury,Germany
+Yes,Corporal,Artillery,2,56,Explosion trauma,UK
+No,Private,Medic,3,57,Amputation,Australia
+Yes,Private,Artillery,1,20,Anxiety disorder,Germany
+No,Corporal,Artillery,4,60,Anxiety disorder,UK
+No,Lieutenant,Medic,3,60,Amputation and PTSD,Germany
+Yes,Corporal,Air Force,1,24,No Injury,UK
+Yes,Corporal,Navy,3,50,Explosion trauma,Australia
+No,Private,Navy,3,50,Amputation and Substance abuse disorder,Germany
+No,Captain,Medic,1,54,Shrapnel injury and Traumatic brain injury,Germany
+No,Lieutenant,Medic,1,52,Burns,Canada
+No,Private,Medic,2,39,Burns and Depression,UK
+No,Lieutenant,Navy,1,28,No Injury,UK
+No,Sergeant,Navy,5,58,No Injury,Canada
+Yes,Private,Navy,1,44,Depression,Canada
+No,Private,Medic,1,45,Burns and Anxiety disorder,Germany
+Yes,Lieutenant,Air Force,4,57,Gunshot wound and Anxiety disorder,Germany
+No,Lieutenant,Artillery,4,33,Burns,Germany
+Yes,Private,Medic,1,22,Burns,USA
+No,Captain,Medic,4,53,Explosion trauma and Anxiety disorder,USA
+Yes,Sergeant,Air Force,2,40,Amputation,USA
+Yes,Lieutenant,Medic,5,25,Anxiety disorder,Germany
+No,Captain,Navy,3,31,Shrapnel injury,Australia
+No,Private,Artillery,2,52,No Injury,USA
+Yes,Sergeant,Artillery,3,59,No Injury,Germany
+Yes,Captain,Artillery,3,23,Shrapnel injury,Germany
+Yes,Corporal,Artillery,2,39,No Injury,USA
+Yes,Private,Navy,5,54,Amputation,Canada
+Yes,Sergeant,Artillery,3,44,Traumatic brain injury,Australia
+No,Private,Infantry,4,31,Shrapnel injury and Anxiety disorder,Germany
+No,Captain,Air Force,3,58,Burns and Depression,Australia
+No,Private,Medic,5,44,Gunshot wound,UK
+Yes,Corporal,Artillery,2,52,No Injury,Australia
+Yes,Private,Infantry,5,40,Gunshot wound,Germany
+No,Corporal,Navy,5,22,No Injury,UK
+No,Private,Medic,3,39,No Injury,Canada
+Yes,Corporal,Medic,1,54,Anxiety disorder,Canada
+Yes,Sergeant,Infantry,2,31,Amputation and Traumatic brain injury,Germany
+Yes,Captain,Air Force,1,52,Explosion trauma and Depression,UK
+No,Lieutenant,Medic,3,32,Depression,UK
+No,Corporal,Air Force,3,22,PTSD,USA
+Yes,Corporal,Medic,3,42,Burns,UK
+No,Private,Infantry,1,22,Shrapnel injury,USA
+No,Sergeant,Medic,1,18,Shrapnel injury and Anxiety disorder,Australia
+No,Captain,Navy,1,60,No Injury,Australia
+Yes,Corporal,Infantry,4,43,Burns,Canada
+Yes,Private,Medic,1,28,Anxiety disorder,Australia
+No,Sergeant,Infantry,4,58,Traumatic brain injury,Australia
+Yes,Corporal,Medic,5,20,Amputation and Substance abuse disorder,UK
+Yes,Private,Navy,5,29,No Injury,UK
+Yes,Private,Air Force,5,44,Shrapnel injury and PTSD,Australia
+No,Private,Artillery,5,32,Shrapnel injury,Germany
+Yes,Private,Medic,2,34,Gunshot wound,Canada
+Yes,Lieutenant,Infantry,4,27,Explosion trauma and PTSD,Germany
+Yes,Captain,Medic,4,21,Burns and Anxiety disorder,Germany
+Yes,Corporal,Medic,3,48,No Injury,UK
+Yes,Captain,Artillery,3,55,No Injury,USA
+Yes,Captain,Navy,1,24,Gunshot wound and Anxiety disorder,Germany
+No,Lieutenant,Infantry,3,56,Gunshot wound and PTSD,Australia
+Yes,Lieutenant,Medic,1,40,Anxiety disorder,UK
+Yes,Corporal,Medic,5,29,No Injury,UK
+No,Captain,Air Force,4,49,No Injury,USA
+No,Lieutenant,Air Force,4,29,Gunshot wound,Canada
+Yes,Captain,Air Force,2,44,No Injury,USA
+Yes,Lieutenant,Air Force,4,42,Shrapnel injury and Anxiety disorder,UK
+No,Captain,Infantry,5,29,Explosion trauma and Depression,USA
+Yes,Corporal,Medic,4,34,Burns,Canada
+Yes,Sergeant,Navy,2,27,No Injury,UK
+Yes,Private,Artillery,3,35,Burns,Canada
+Yes,Lieutenant,Artillery,2,58,Amputation,Canada
+No,Sergeant,Navy,3,33,No Injury,UK
+No,Private,Air Force,3,36,Gunshot wound and PTSD,UK
+No,Corporal,Air Force,3,24,Gunshot wound and PTSD,USA
+No,Corporal,Artillery,5,41,Traumatic brain injury,USA
+No,Captain,Artillery,3,24,Shrapnel injury and PTSD,Germany
+Yes,Captain,Artillery,3,48,No Injury,USA
+No,Sergeant,Navy,3,57,Amputation,Australia
+No,Corporal,Navy,5,34,Gunshot wound,Canada
+Yes,Captain,Artillery,4,33,Explosion trauma and Traumatic brain injury,Canada
+No,Captain,Artillery,5,20,No Injury,UK
+Yes,Corporal,Infantry,2,47,Amputation,Germany
+No,Captain,Infantry,4,39,No Injury,Australia
+Yes,Corporal,Air Force,3,36,No Injury,UK
+Yes,Sergeant,Air Force,1,23,Amputation,USA
+Yes,Private,Navy,4,35,Traumatic brain injury,Germany
+No,Captain,Navy,1,49,Shrapnel injury and Depression,USA
+Yes,Lieutenant,Air Force,3,50,No Injury,Australia
+Yes,Captain,Artillery,5,56,No Injury,Germany
+Yes,Corporal,Infantry,3,31,Shrapnel injury and Depression,Canada
+Yes,Sergeant,Navy,2,54,No Injury,USA
+Yes,Corporal,Infantry,3,41,Substance abuse disorder,Germany
+Yes,Corporal,Medic,1,18,Gunshot wound,Australia
+No,Sergeant,Infantry,4,38,Shrapnel injury and Depression,UK
+No,Lieutenant,Medic,3,40,Anxiety disorder,USA
+No,Private,Medic,2,19,Gunshot wound and Anxiety disorder,Australia
+No,Corporal,Medic,1,25,Shrapnel injury,UK
+No,Captain,Navy,3,20,Traumatic brain injury,UK
+Yes,Sergeant,Artillery,4,58,Shrapnel injury,Germany
+No,Captain,Infantry,4,27,Burns and Traumatic brain injury,Germany
+No,Sergeant,Artillery,4,55,Shrapnel injury and PTSD,UK
+No,Lieutenant,Navy,4,24,No Injury,USA
+Yes,Corporal,Artillery,3,39,Burns and Anxiety disorder,UK
+No,Private,Navy,4,32,Anxiety disorder,Canada
+No,Sergeant,Medic,4,34,Substance abuse disorder,Canada
+No,Captain,Artillery,3,54,Shrapnel injury,Australia
+Yes,Corporal,Air Force,2,53,Amputation and Traumatic brain injury,Germany
+No,Private,Navy,3,25,No Injury,Canada
+Yes,Sergeant,Medic,3,43,Explosion trauma and Substance abuse disorder,Canada
+No,Lieutenant,Artillery,4,45,Burns,UK
+No,Private,Infantry,3,37,Gunshot wound and Traumatic brain injury,Canada
+No,Private,Medic,2,49,Substance abuse disorder,USA
+No,Private,Artillery,4,38,No Injury,Canada
+No,Private,Air Force,5,50,Explosion trauma and Anxiety disorder,UK
+No,Lieutenant,Medic,3,18,Explosion trauma,USA
+Yes,Sergeant,Medic,1,37,Amputation,USA
+Yes,Lieutenant,Infantry,4,34,Amputation,Canada
+No,Corporal,Medic,1,44,Shrapnel injury,Germany
+No,Lieutenant,Air Force,2,44,No Injury,UK
+No,Sergeant,Medic,3,24,Traumatic brain injury,USA
+Yes,Private,Navy,1,59,No Injury,Canada
+Yes,Captain,Air Force,2,22,Traumatic brain injury,Canada
+No,Sergeant,Artillery,4,40,Anxiety disorder,USA
+No,Private,Artillery,2,18,Shrapnel injury,Australia
+Yes,Captain,Artillery,2,46,Shrapnel injury,USA
+No,Corporal,Infantry,4,39,Gunshot wound and Traumatic brain injury,UK
+No,Lieutenant,Air Force,2,45,No Injury,UK
+No,Captain,Artillery,1,59,No Injury,USA
+No,Private,Artillery,3,34,PTSD,Germany
+Yes,Captain,Infantry,1,18,Amputation and Substance abuse disorder,UK
+Yes,Captain,Air Force,4,19,PTSD,Canada
+Yes,Private,Medic,4,59,No Injury,UK
+Yes,Lieutenant,Infantry,2,58,Amputation,USA
+Yes,Captain,Medic,1,26,Traumatic brain injury,Canada
+No,Corporal,Navy,2,28,Burns,Germany
+No,Lieutenant,Infantry,4,23,Gunshot wound,Germany
+Yes,Private,Artillery,4,25,Traumatic brain injury,Canada
+No,Corporal,Artillery,3,21,Explosion trauma,Germany
+No,Captain,Medic,1,26,Burns,Australia
+No,Private,Air Force,5,56,Shrapnel injury,UK
+No,Sergeant,Infantry,5,55,Shrapnel injury and Substance abuse disorder,Germany
+No,Private,Navy,3,45,Anxiety disorder,UK
+Yes,Lieutenant,Infantry,1,21,Shrapnel injury and PTSD,Canada
+No,Lieutenant,Air Force,4,18,No Injury,USA
+No,Corporal,Medic,4,27,Gunshot wound and PTSD,Germany
+No,Corporal,Navy,4,57,Burns,UK
+No,Corporal,Air Force,1,25,Shrapnel injury,Australia
+No,Captain,Navy,1,21,Gunshot wound,Australia
+Yes,Sergeant,Artillery,3,50,Depression,USA
+Yes,Captain,Air Force,1,30,PTSD,UK
+No,Lieutenant,Infantry,3,48,Burns and Substance abuse disorder,UK
+Yes,Lieutenant,Infantry,4,38,Gunshot wound,Canada
+Yes,Private,Air Force,2,47,No Injury,USA
+No,Lieutenant,Artillery,2,49,Gunshot wound,USA
+Yes,Corporal,Air Force,4,27,Gunshot wound and Anxiety disorder,UK
+No,Private,Infantry,1,55,No Injury,Australia
+Yes,Captain,Artillery,4,51,Substance abuse disorder,Canada
+No,Captain,Air Force,4,44,Shrapnel injury,Canada
+Yes,Corporal,Air Force,2,37,Shrapnel injury and PTSD,USA
+Yes,Captain,Air Force,2,24,Shrapnel injury,UK
+Yes,Corporal,Artillery,2,18,Amputation and Substance abuse disorder,Canada
+No,Sergeant,Navy,5,51,Burns and Traumatic brain injury,Canada
+Yes,Private,Navy,3,18,Shrapnel injury,USA
+Yes,Lieutenant,Navy,2,29,PTSD,USA
+No,Lieutenant,Infantry,4,49,No Injury,Canada
+Yes,Sergeant,Artillery,3,28,Anxiety disorder,Germany
+No,Corporal,Air Force,3,60,No Injury,UK
+No,Sergeant,Air Force,4,34,No Injury,USA
+No,Corporal,Artillery,4,32,Gunshot wound and Substance abuse disorder,USA
+Yes,Sergeant,Medic,1,21,Amputation,Germany
+Yes,Captain,Air Force,1,29,Traumatic brain injury,USA
+No,Private,Medic,5,44,Gunshot wound,Australia
+No,Private,Medic,5,60,Gunshot wound,UK
+Yes,Captain,Navy,5,39,Explosion trauma and Anxiety disorder,Germany
+Yes,Captain,Artillery,2,50,Burns,Germany
+No,Captain,Medic,1,25,Amputation,Germany
+No,Captain,Navy,2,38,No Injury,UK
+No,Sergeant,Artillery,5,22,Burns and Depression,Canada
+Yes,Corporal,Infantry,3,18,No Injury,Canada
+No,Private,Air Force,3,18,No Injury,Australia
+Yes,Private,Navy,2,32,No Injury,UK
+No,Lieutenant,Artillery,1,60,Shrapnel injury,UK
+Yes,Lieutenant,Medic,3,36,Gunshot wound and Substance abuse disorder,Canada
+Yes,Private,Infantry,1,50,Substance abuse disorder,Canada
+Yes,Private,Infantry,1,18,Amputation,Australia
+Yes,Private,Artillery,4,59,Shrapnel injury,Germany
+No,Sergeant,Infantry,5,42,No Injury,USA
+Yes,Captain,Artillery,5,59,Shrapnel injury and PTSD,Germany
+Yes,Corporal,Artillery,2,41,Explosion trauma,Germany
+Yes,Captain,Medic,2,45,PTSD,Australia
+Yes,Corporal,Infantry,1,36,Shrapnel injury,Germany
+No,Sergeant,Infantry,4,25,No Injury,Australia
+No,Captain,Medic,3,23,Amputation and Traumatic brain injury,USA
+No,Private,Navy,1,60,Shrapnel injury,USA
+Yes,Corporal,Medic,4,23,No Injury,UK
+No,Corporal,Navy,2,38,Gunshot wound,USA
+No,Private,Air Force,4,58,Shrapnel injury,UK
+Yes,Captain,Infantry,2,26,Shrapnel injury,Australia
+Yes,Corporal,Artillery,2,46,Burns and Traumatic brain injury,Australia
+No,Lieutenant,Infantry,5,28,Gunshot wound and Anxiety disorder,Canada
+No,Corporal,Air Force,4,18,No Injury,UK
+No,Corporal,Air Force,1,52,No Injury,Australia
+No,Corporal,Medic,2,37,Shrapnel injury and Substance abuse disorder,USA
+Yes,Private,Infantry,2,39,Shrapnel injury,Germany
+Yes,Corporal,Artillery,2,20,Amputation and Anxiety disorder,Australia
+Yes,Lieutenant,Medic,2,37,No Injury,UK
+Yes,Private,Artillery,4,45,PTSD,Canada
+Yes,Captain,Medic,3,23,No Injury,Germany
+No,Private,Artillery,3,26,Gunshot wound,Australia
+No,Captain,Air Force,2,20,Gunshot wound and Substance abuse disorder,Canada
+Yes,Lieutenant,Navy,1,38,Burns and PTSD,Germany
+Yes,Lieutenant,Air Force,5,50,Substance abuse disorder,Germany
+Yes,Sergeant,Artillery,5,28,Shrapnel injury,Germany
+Yes,Private,Infantry,1,26,No Injury,USA
+No,Lieutenant,Infantry,2,43,Traumatic brain injury,Australia
+Yes,Sergeant,Medic,2,35,Gunshot wound and Anxiety disorder,Germany
+No,Captain,Artillery,5,25,Shrapnel injury,Germany
+No,Sergeant,Infantry,2,41,Amputation,Canada
+Yes,Corporal,Artillery,3,49,Depression,Australia
+Yes,Private,Medic,1,22,Gunshot wound and Traumatic brain injury,UK
+Yes,Captain,Artillery,2,43,Amputation,Australia
+Yes,Lieutenant,Artillery,2,57,PTSD,USA
+Yes,Corporal,Artillery,5,36,Burns and Depression,Germany
+Yes,Lieutenant,Medic,5,35,No Injury,USA
+No,Lieutenant,Infantry,4,19,Amputation,Australia
+No,Private,Navy,2,59,No Injury,USA
+No,Private,Air Force,4,21,Shrapnel injury,USA
+No,Private,Artillery,1,25,Gunshot wound and Substance abuse disorder,UK
+Yes,Corporal,Artillery,5,55,No Injury,USA
+No,Corporal,Navy,1,43,Depression,Germany
+No,Sergeant,Air Force,5,30,Depression,Canada
+Yes,Captain,Navy,4,19,Substance abuse disorder,USA
+Yes,Lieutenant,Medic,2,23,No Injury,USA
+No,Sergeant,Artillery,1,53,Amputation,Germany
+Yes,Private,Artillery,3,40,Explosion trauma,UK
+No,Corporal,Infantry,4,21,Gunshot wound and Traumatic brain injury,Canada
+Yes,Captain,Navy,2,41,No Injury,Canada
+Yes,Corporal,Infantry,5,37,No Injury,UK
+Yes,Sergeant,Air Force,2,54,Burns,USA
+No,Private,Navy,5,40,Traumatic brain injury,UK
+No,Lieutenant,Medic,2,26,No Injury,Germany
+Yes,Sergeant,Medic,5,34,Substance abuse disorder,Germany
+Yes,Corporal,Navy,4,33,Explosion trauma,Canada
+Yes,Private,Navy,1,41,Depression,USA
+No,Captain,Navy,1,51,Traumatic brain injury,UK
+No,Captain,Medic,3,58,Shrapnel injury and Substance abuse disorder,Australia
+Yes,Private,Artillery,4,52,Explosion trauma and PTSD,Australia
+Yes,Corporal,Air Force,1,18,Traumatic brain injury,Australia
+Yes,Lieutenant,Medic,5,25,No Injury,Germany
+Yes,Sergeant,Navy,5,29,Explosion trauma,Canada
+Yes,Sergeant,Medic,3,33,No Injury,Germany
+No,Sergeant,Navy,1,37,No Injury,Germany
+No,Corporal,Navy,1,44,Shrapnel injury and PTSD,Germany
+No,Sergeant,Navy,2,51,No Injury,Canada
+No,Captain,Navy,1,51,No Injury,Germany
+No,Sergeant,Navy,5,49,Shrapnel injury,UK
+No,Lieutenant,Air Force,1,60,No Injury,UK
+Yes,Sergeant,Navy,3,42,Amputation and Substance abuse disorder,USA
+Yes,Corporal,Navy,4,31,Anxiety disorder,Canada
+No,Captain,Navy,4,32,Explosion trauma,Australia
+No,Captain,Medic,5,48,Amputation and PTSD,Canada
+No,Lieutenant,Navy,5,60,Shrapnel injury,UK
+Yes,Captain,Medic,4,52,Substance abuse disorder,UK
+Yes,Corporal,Air Force,2,22,PTSD,UK
+Yes,Sergeant,Artillery,5,58,Depression,USA
+No,Private,Medic,4,47,Substance abuse disorder,USA
+No,Captain,Medic,4,30,No Injury,Australia
+Yes,Captain,Medic,2,24,Explosion trauma,Canada
+No,Lieutenant,Air Force,5,39,Depression,Canada
+No,Captain,Medic,4,40,Gunshot wound,Canada
+No,Captain,Navy,5,52,Explosion trauma and Anxiety disorder,Germany
+No,Private,Artillery,3,38,Substance abuse disorder,Germany
+Yes,Corporal,Infantry,3,45,Gunshot wound and Substance abuse disorder,UK
+No,Private,Artillery,5,44,Explosion trauma and Traumatic brain injury,UK
+No,Lieutenant,Artillery,5,46,Burns and Depression,Canada
+No,Sergeant,Artillery,5,26,Amputation and Traumatic brain injury,USA
+No,Private,Medic,3,54,Shrapnel injury,USA
+No,Private,Air Force,4,43,PTSD,Australia
+No,Corporal,Artillery,5,23,Explosion trauma and Anxiety disorder,USA
+Yes,Corporal,Air Force,1,44,No Injury,Canada
+Yes,Captain,Navy,2,42,Gunshot wound and Traumatic brain injury,UK
+No,Lieutenant,Air Force,4,36,Substance abuse disorder,Australia
+Yes,Captain,Navy,2,45,No Injury,UK
+Yes,Lieutenant,Air Force,2,38,Shrapnel injury,UK
+No,Corporal,Artillery,1,25,No Injury,Canada
+No,Lieutenant,Infantry,1,36,Gunshot wound and Depression,Australia
+Yes,Captain,Infantry,2,41,Depression,Australia
+No,Captain,Medic,3,39,Substance abuse disorder,UK
+No,Private,Air Force,5,38,Traumatic brain injury,Canada
+No,Captain,Infantry,1,50,Amputation and Depression,Australia
+Yes,Lieutenant,Navy,2,40,Explosion trauma,Australia
+No,Private,Medic,1,59,Depression,USA
+No,Corporal,Infantry,4,39,Amputation and PTSD,USA
+Yes,Lieutenant,Air Force,5,20,Depression,Australia
+Yes,Captain,Medic,2,24,Depression,Canada
+Yes,Corporal,Medic,4,54,Shrapnel injury and Depression,Canada
+No,Private,Air Force,3,33,Substance abuse disorder,Germany
+No,Corporal,Navy,2,19,Shrapnel injury and Depression,UK
+No,Private,Infantry,3,40,No Injury,Canada
+No,Private,Infantry,2,54,PTSD,Germany
+No,Private,Navy,5,21,No Injury,Canada
+Yes,Private,Medic,4,50,Shrapnel injury and Substance abuse disorder,Australia
+Yes,Captain,Navy,1,59,Gunshot wound,USA
+No,Lieutenant,Air Force,2,27,No Injury,UK
+No,Lieutenant,Infantry,1,22,No Injury,UK
+No,Captain,Artillery,5,35,Explosion trauma and Substance abuse disorder,Germany
+No,Private,Medic,4,21,Anxiety disorder,Germany
+Yes,Sergeant,Navy,2,56,Amputation,Canada
+No,Captain,Air Force,2,28,Amputation and Traumatic brain injury,USA
+Yes,Captain,Infantry,1,40,Shrapnel injury,UK
+No,Captain,Artillery,2,45,PTSD,Germany
+No,Captain,Navy,5,54,Gunshot wound and Traumatic brain injury,Germany
+No,Corporal,Artillery,5,58,Shrapnel injury and PTSD,UK
+Yes,Captain,Navy,1,46,Shrapnel injury,Germany
+Yes,Sergeant,Navy,3,35,Substance abuse disorder,Australia
+No,Sergeant,Air Force,1,53,Substance abuse disorder,Canada
+No,Captain,Medic,3,43,Substance abuse disorder,Australia
+Yes,Private,Artillery,2,29,Burns and Anxiety disorder,UK
+Yes,Lieutenant,Air Force,1,48,No Injury,Germany
+No,Lieutenant,Air Force,3,20,Gunshot wound and Traumatic brain injury,Australia
+Yes,Captain,Navy,5,47,No Injury,Canada
+No,Sergeant,Infantry,2,30,No Injury,Australia
+No,Captain,Artillery,2,25,Shrapnel injury,UK
+Yes,Lieutenant,Navy,3,22,No Injury,Australia
+Yes,Corporal,Infantry,3,49,Explosion trauma,Canada
+Yes,Lieutenant,Navy,4,40,Burns and Anxiety disorder,UK
+No,Lieutenant,Medic,2,35,Traumatic brain injury,USA
+No,Sergeant,Artillery,5,31,Traumatic brain injury,UK
+No,Captain,Infantry,1,33,No Injury,Germany
+No,Lieutenant,Air Force,5,25,Gunshot wound,USA
+Yes,Lieutenant,Air Force,1,35,Depression,Germany
+No,Corporal,Medic,5,59,Burns and Anxiety disorder,Germany
+Yes,Corporal,Air Force,3,29,Depression,UK
+No,Sergeant,Infantry,5,35,Anxiety disorder,Germany
+Yes,Lieutenant,Artillery,2,46,Explosion trauma,Canada
+Yes,Corporal,Navy,4,36,Explosion trauma,UK
+No,Sergeant,Medic,3,34,Shrapnel injury and Substance abuse disorder,USA
+No,Private,Infantry,3,55,No Injury,UK
+No,Private,Medic,3,20,Shrapnel injury,Canada
+Yes,Lieutenant,Navy,5,24,PTSD,USA
+No,Private,Medic,2,40,Traumatic brain injury,Canada
+Yes,Private,Artillery,1,31,Gunshot wound and Substance abuse disorder,Germany
+Yes,Private,Medic,5,50,Substance abuse disorder,Germany
+No,Corporal,Medic,4,53,Burns,USA
+Yes,Sergeant,Air Force,5,34,Shrapnel injury and Anxiety disorder,Germany
+Yes,Private,Infantry,4,38,Amputation,Germany
+Yes,Captain,Navy,5,18,No Injury,UK
+Yes,Lieutenant,Artillery,4,27,No Injury,Australia
+No,Lieutenant,Air Force,4,45,Burns,UK
+Yes,Captain,Air Force,2,47,Anxiety disorder,Australia
+Yes,Captain,Infantry,1,57,Traumatic brain injury,UK
+Yes,Captain,Infantry,1,29,No Injury,Canada
+Yes,Private,Infantry,5,52,Gunshot wound,Australia
+Yes,Corporal,Artillery,4,23,No Injury,Canada
+No,Sergeant,Medic,1,22,No Injury,Canada
+No,Sergeant,Air Force,2,44,Amputation and Anxiety disorder,Australia
+No,Captain,Artillery,1,54,No Injury,Canada
+Yes,Corporal,Infantry,2,49,Burns and PTSD,Germany
+No,Lieutenant,Navy,1,60,No Injury,UK
+Yes,Private,Medic,5,33,Burns,USA
+No,Sergeant,Artillery,2,42,Gunshot wound and Anxiety disorder,Australia
+No,Lieutenant,Medic,4,28,No Injury,UK
+No,Sergeant,Infantry,3,43,Depression,Canada
+No,Corporal,Infantry,4,34,Explosion trauma and Anxiety disorder,Germany
+Yes,Sergeant,Air Force,3,40,Burns and Anxiety disorder,Australia
+Yes,Lieutenant,Air Force,4,36,Anxiety disorder,Canada
+Yes,Corporal,Artillery,5,54,No Injury,Canada
+No,Corporal,Infantry,5,27,Substance abuse disorder,Canada
+Yes,Captain,Medic,4,31,Gunshot wound and Depression,Germany
+No,Captain,Infantry,1,27,Shrapnel injury,Australia
+Yes,Sergeant,Infantry,2,37,Shrapnel injury and Traumatic brain injury,Australia
+Yes,Private,Infantry,5,20,Burns,USA
+Yes,Captain,Air Force,2,39,Shrapnel injury and Traumatic brain injury,USA
+No,Captain,Artillery,3,57,No Injury,Canada
+No,Lieutenant,Infantry,3,20,Depression,Germany
+Yes,Lieutenant,Air Force,4,54,Depression,Germany
+No,Sergeant,Medic,4,19,No Injury,Germany
+No,Sergeant,Navy,5,28,No Injury,Canada
+No,Sergeant,Navy,2,45,No Injury,Australia
+No,Sergeant,Navy,4,32,No Injury,Australia
+No,Corporal,Navy,5,36,Explosion trauma and PTSD,UK
+No,Captain,Air Force,5,18,Gunshot wound and Anxiety disorder,USA
+Yes,Private,Infantry,3,24,Explosion trauma,Canada
+No,Captain,Medic,3,53,Traumatic brain injury,USA
+No,Private,Air Force,4,44,Explosion trauma,Germany
+No,Sergeant,Air Force,3,57,Anxiety disorder,UK
+Yes,Captain,Navy,4,53,Gunshot wound,USA
+No,Lieutenant,Navy,5,30,Traumatic brain injury,Australia
+No,Private,Artillery,4,25,Explosion trauma and Traumatic brain injury,Australia
+No,Sergeant,Air Force,2,49,Amputation,Canada
+Yes,Sergeant,Air Force,5,44,No Injury,USA
+Yes,Sergeant,Air Force,1,49,PTSD,USA
+No,Private,Artillery,3,44,No Injury,UK
+No,Captain,Navy,2,26,Substance abuse disorder,UK
+Yes,Sergeant,Navy,4,51,No Injury,Australia
+No,Sergeant,Medic,3,41,Anxiety disorder,Germany
+No,Sergeant,Medic,4,41,Explosion trauma and Traumatic brain injury,Germany
+No,Lieutenant,Medic,1,54,No Injury,UK
+No,Captain,Medic,5,34,No Injury,UK
+No,Private,Infantry,2,23,PTSD,USA
+No,Lieutenant,Infantry,4,28,Explosion trauma,Germany
+Yes,Corporal,Artillery,2,38,Anxiety disorder,Germany
+Yes,Lieutenant,Navy,4,55,Gunshot wound,Germany
+No,Lieutenant,Artillery,1,54,Traumatic brain injury,Germany
+No,Captain,Artillery,5,59,Amputation and Substance abuse disorder,Australia
+Yes,Private,Artillery,4,23,Shrapnel injury and PTSD,Germany
+Yes,Lieutenant,Air Force,1,59,Explosion trauma,Australia
+No,Lieutenant,Infantry,5,57,No Injury,USA
+Yes,Lieutenant,Infantry,1,29,No Injury,USA
+No,Lieutenant,Air Force,4,59,PTSD,Germany
+No,Captain,Artillery,1,34,No Injury,Canada
+Yes,Corporal,Navy,5,32,Amputation and Depression,Australia
+Yes,Corporal,Navy,1,43,Amputation and Substance abuse disorder,Canada
+No,Lieutenant,Infantry,4,45,Burns,Germany
+No,Lieutenant,Infantry,2,36,Depression,USA
+No,Lieutenant,Air Force,4,58,No Injury,Australia
+No,Captain,Infantry,1,57,No Injury,USA
+No,Corporal,Artillery,3,43,Shrapnel injury and Substance abuse disorder,UK
+Yes,Captain,Infantry,5,34,Amputation,Germany
+Yes,Sergeant,Air Force,4,49,Explosion trauma,Australia
+No,Captain,Navy,1,27,Amputation and Substance abuse disorder,UK
+Yes,Corporal,Navy,4,59,Depression,UK
+Yes,Sergeant,Medic,4,23,No Injury,UK
+No,Sergeant,Air Force,2,39,No Injury,UK
+Yes,Private,Medic,2,42,No Injury,USA
+No,Corporal,Air Force,4,59,Anxiety disorder,Germany
+No,Lieutenant,Medic,3,48,Explosion trauma,Australia
+No,Captain,Air Force,1,28,Shrapnel injury and Traumatic brain injury,UK
+Yes,Captain,Infantry,4,37,Explosion trauma,UK
+No,Lieutenant,Medic,4,29,Substance abuse disorder,UK
+No,Captain,Artillery,3,58,Shrapnel injury,Germany
+No,Corporal,Medic,2,46,Explosion trauma and Traumatic brain injury,Canada
+No,Private,Navy,2,50,Depression,USA
+No,Lieutenant,Artillery,3,25,Anxiety disorder,UK
+Yes,Captain,Infantry,1,35,Amputation and Anxiety disorder,Germany
+No,Captain,Artillery,1,34,Traumatic brain injury,Canada
+No,Corporal,Air Force,4,51,Gunshot wound and Depression,Germany
+No,Captain,Artillery,3,56,Amputation and Substance abuse disorder,Australia
+No,Sergeant,Navy,3,40,Traumatic brain injury,USA
+Yes,Private,Medic,4,41,Depression,Australia
+Yes,Corporal,Navy,3,31,No Injury,UK
+No,Captain,Air Force,5,21,Burns,Canada
