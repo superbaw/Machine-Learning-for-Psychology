@@ -1,0 +1,501 @@
+Diagnosed with PTSD,Military Rank,Military Position,Number of Tours,Age,Injury received,Country of assignment
+No,Private,Medic,4,20,Physical,Australia
+No,Private,Navy,1,30,Physical,Australia
+No,Sergeant,Air Force,5,52,None,Germany
+Yes,Corporal,Artillery,2,41,Psychological,UK
+Yes,Private,Navy,4,56,Both,Australia
+Yes,Captain,Medic,1,43,Psychological,Australia
+No,Corporal,Navy,2,48,Physical,USA
+Yes,Corporal,Air Force,5,59,Physical,UK
+Yes,Sergeant,Air Force,5,24,Psychological,Germany
+No,Corporal,Infantry,4,32,Physical,Australia
+Yes,Captain,Medic,3,35,Psychological,UK
+Yes,Corporal,Artillery,2,53,Physical,Australia
+No,Captain,Navy,5,59,Psychological,Australia
+No,Private,Infantry,2,33,None,Germany
+Yes,Captain,Infantry,2,39,Physical,Australia
+No,Sergeant,Medic,2,53,Both,UK
+No,Corporal,Artillery,4,30,Psychological,Canada
+Yes,Corporal,Air Force,3,44,Both,USA
+No,Lieutenant,Artillery,5,29,Both,Australia
+No,Corporal,Navy,4,31,Psychological,Australia
+No,Corporal,Air Force,2,40,Both,USA
+No,Captain,Medic,2,24,None,Canada
+No,Private,Infantry,4,23,None,Canada
+No,Lieutenant,Infantry,3,45,Both,Canada
+Yes,Sergeant,Air Force,1,25,Physical,Germany
+No,Sergeant,Medic,4,51,Psychological,Australia
+No,Sergeant,Navy,1,46,Physical,UK
+Yes,Lieutenant,Air Force,4,28,Both,Canada
+Yes,Lieutenant,Artillery,2,51,Both,UK
+Yes,Corporal,Infantry,1,34,Physical,UK
+No,Sergeant,Navy,2,51,Psychological,Australia
+Yes,Lieutenant,Infantry,5,50,Physical,UK
+Yes,Lieutenant,Navy,2,56,None,USA
+Yes,Captain,Medic,5,26,Physical,USA
+No,Corporal,Infantry,2,28,Both,Canada
+No,Sergeant,Infantry,1,32,Physical,Germany
+No,Lieutenant,Medic,2,39,Both,Australia
+No,Captain,Navy,4,31,Physical,Germany
+Yes,Captain,Navy,5,30,Physical,UK
+Yes,Lieutenant,Infantry,1,48,Psychological,USA
+No,Private,Navy,2,51,Both,USA
+No,Private,Medic,3,54,Physical,UK
+Yes,Captain,Medic,2,33,Psychological,Germany
+No,Captain,Medic,1,31,Physical,Germany
+Yes,Corporal,Air Force,1,44,Psychological,Australia
+No,Corporal,Air Force,2,27,Psychological,USA
+No,Sergeant,Navy,5,40,Physical,Germany
+Yes,Sergeant,Medic,1,50,Psychological,Australia
+Yes,Private,Artillery,5,49,None,Germany
+No,Corporal,Infantry,3,22,Physical,Australia
+Yes,Captain,Artillery,1,32,Physical,UK
+Yes,Captain,Infantry,3,53,Physical,UK
+No,Sergeant,Artillery,2,55,Psychological,Canada
+Yes,Captain,Navy,3,43,Physical,Australia
+No,Corporal,Air Force,4,41,None,Canada
+Yes,Private,Artillery,2,50,Both,USA
+No,Private,Infantry,2,47,Psychological,Australia
+Yes,Lieutenant,Navy,4,54,Psychological,Canada
+No,Lieutenant,Medic,1,20,Both,Germany
+Yes,Sergeant,Infantry,3,25,Psychological,Australia
+Yes,Corporal,Air Force,1,43,None,USA
+Yes,Private,Medic,5,60,Physical,USA
+No,Corporal,Air Force,4,51,Both,Germany
+No,Captain,Air Force,4,51,Both,UK
+No,Captain,Navy,5,28,Both,USA
+No,Corporal,Infantry,3,31,Psychological,Canada
+No,Corporal,Medic,3,34,Psychological,Australia
+No,Sergeant,Air Force,2,48,Psychological,USA
+Yes,Private,Artillery,1,39,Psychological,Canada
+Yes,Corporal,Infantry,3,25,Both,USA
+No,Corporal,Navy,2,38,Physical,USA
+No,Corporal,Navy,4,42,Psychological,USA
+No,Corporal,Infantry,3,37,Psychological,Canada
+No,Private,Infantry,5,43,Physical,Germany
+No,Captain,Medic,5,26,Psychological,Germany
+No,Corporal,Artillery,4,45,Psychological,Australia
+No,Lieutenant,Medic,1,33,None,Germany
+No,Captain,Artillery,3,42,Psychological,Germany
+No,Captain,Artillery,2,54,Psychological,Germany
+No,Lieutenant,Medic,3,38,Physical,USA
+No,Private,Navy,1,50,Both,Germany
+No,Private,Air Force,3,31,Both,Australia
+Yes,Private,Navy,5,34,Both,UK
+Yes,Captain,Artillery,3,21,Psychological,USA
+Yes,Captain,Artillery,4,45,Physical,Canada
+Yes,Lieutenant,Medic,2,23,Both,Germany
+Yes,Captain,Artillery,1,46,Psychological,Germany
+No,Corporal,Artillery,4,22,Psychological,Canada
+Yes,Lieutenant,Medic,1,35,Physical,UK
+Yes,Lieutenant,Infantry,3,28,Psychological,Australia
+No,Captain,Navy,3,26,Both,USA
+Yes,Captain,Navy,5,21,None,Australia
+No,Corporal,Artillery,4,34,None,Australia
+No,Private,Air Force,4,19,Psychological,Canada
+No,Private,Infantry,3,54,Psychological,UK
+Yes,Private,Navy,1,33,Psychological,Germany
+No,Sergeant,Infantry,3,53,Physical,USA
+No,Private,Artillery,4,50,Both,Germany
+Yes,Corporal,Medic,3,44,Physical,Germany
+No,Sergeant,Navy,4,60,Physical,Australia
+Yes,Captain,Artillery,1,27,Both,USA
+No,Corporal,Artillery,5,24,Psychological,USA
+No,Sergeant,Infantry,5,55,Both,Canada
+Yes,Corporal,Infantry,4,22,None,Australia
+No,Lieutenant,Navy,5,49,None,Canada
+No,Private,Medic,2,20,Psychological,Germany
+No,Lieutenant,Medic,2,44,Both,Germany
+No,Sergeant,Air Force,3,35,Psychological,Canada
+Yes,Sergeant,Infantry,3,46,Psychological,Canada
+Yes,Private,Infantry,2,57,Physical,Australia
+Yes,Captain,Artillery,1,36,Physical,Germany
+Yes,Captain,Medic,1,36,None,Germany
+Yes,Lieutenant,Infantry,1,39,Physical,Canada
+No,Corporal,Infantry,4,53,None,Germany
+No,Lieutenant,Air Force,1,28,None,USA
+Yes,Captain,Artillery,3,22,Physical,Germany
+Yes,Lieutenant,Infantry,4,32,None,UK
+No,Private,Artillery,4,60,None,Australia
+No,Private,Air Force,2,39,Psychological,USA
+Yes,Captain,Air Force,4,50,None,Australia
+Yes,Sergeant,Medic,1,43,Psychological,Canada
+Yes,Captain,Artillery,2,36,Psychological,Germany
+No,Sergeant,Navy,1,21,Both,Australia
+Yes,Captain,Medic,4,19,Psychological,Germany
+Yes,Corporal,Artillery,2,57,Psychological,Canada
+Yes,Sergeant,Artillery,5,37,None,Germany
+Yes,Lieutenant,Medic,3,51,Both,Canada
+Yes,Captain,Infantry,3,54,Physical,Canada
+Yes,Captain,Infantry,4,26,Both,USA
+No,Sergeant,Medic,2,38,Physical,Canada
+No,Private,Navy,3,21,Physical,UK
+No,Sergeant,Navy,4,22,None,Canada
+No,Private,Artillery,4,18,Psychological,Germany
+No,Lieutenant,Air Force,2,60,Both,Canada
+Yes,Private,Medic,5,54,Physical,USA
+Yes,Captain,Navy,3,58,Both,Australia
+No,Lieutenant,Medic,3,18,None,Canada
+No,Corporal,Navy,2,37,Both,Germany
+No,Corporal,Infantry,5,27,Physical,UK
+No,Captain,Air Force,2,26,Physical,USA
+No,Private,Navy,5,59,Physical,Germany
+Yes,Captain,Navy,1,55,None,Germany
+No,Private,Infantry,5,52,Both,Canada
+No,Corporal,Navy,5,46,Both,Australia
+No,Corporal,Artillery,3,18,None,USA
+No,Private,Artillery,3,48,Both,Canada
+Yes,Lieutenant,Air Force,5,33,Psychological,Germany
+No,Private,Navy,5,60,None,USA
+No,Lieutenant,Medic,2,35,Both,Canada
+No,Corporal,Navy,2,43,None,Germany
+Yes,Captain,Artillery,4,54,Both,UK
+No,Lieutenant,Air Force,4,36,Physical,Australia
+No,Lieutenant,Medic,2,22,None,Canada
+Yes,Private,Navy,1,19,None,Germany
+Yes,Sergeant,Infantry,5,36,None,Germany
+No,Corporal,Artillery,1,18,Both,Germany
+Yes,Corporal,Navy,2,25,None,Germany
+Yes,Sergeant,Infantry,4,44,Both,USA
+Yes,Sergeant,Artillery,4,25,None,USA
+No,Sergeant,Artillery,3,46,Physical,Germany
+No,Sergeant,Navy,1,41,None,Canada
+Yes,Sergeant,Medic,5,36,None,USA
+Yes,Lieutenant,Medic,1,20,None,USA
+Yes,Sergeant,Artillery,5,40,Psychological,Germany
+No,Captain,Navy,4,33,Physical,Germany
+Yes,Private,Medic,3,25,None,UK
+No,Sergeant,Artillery,5,50,Psychological,UK
+No,Lieutenant,Artillery,2,37,None,USA
+Yes,Corporal,Medic,4,38,Physical,Australia
+No,Captain,Artillery,3,57,Both,Australia
+No,Private,Artillery,1,45,None,Canada
+No,Corporal,Medic,2,38,None,Canada
+Yes,Corporal,Infantry,2,50,Psychological,Canada
+Yes,Captain,Medic,5,43,Both,Germany
+Yes,Lieutenant,Infantry,3,41,Physical,USA
+Yes,Sergeant,Infantry,5,28,Both,UK
+Yes,Captain,Infantry,3,52,Both,UK
+No,Lieutenant,Navy,1,54,Physical,Canada
+Yes,Lieutenant,Medic,3,23,None,Canada
+No,Sergeant,Medic,5,41,Psychological,Germany
+Yes,Captain,Infantry,3,51,None,USA
+Yes,Private,Infantry,5,53,Both,UK
+Yes,Sergeant,Navy,5,30,None,UK
+No,Private,Air Force,4,28,None,USA
+No,Sergeant,Navy,5,34,Both,USA
+No,Sergeant,Artillery,5,34,Both,UK
+Yes,Captain,Infantry,4,19,Psychological,USA
+No,Private,Navy,3,35,Physical,Australia
+No,Lieutenant,Artillery,3,48,None,UK
+Yes,Corporal,Air Force,4,46,None,UK
+No,Lieutenant,Navy,5,51,None,UK
+No,Lieutenant,Artillery,5,46,None,UK
+No,Captain,Air Force,1,46,None,Australia
+Yes,Captain,Artillery,5,30,Psychological,UK
+No,Sergeant,Infantry,5,47,None,UK
+No,Corporal,Navy,4,27,None,Germany
+Yes,Sergeant,Medic,4,18,Both,Canada
+Yes,Private,Infantry,2,31,Physical,Germany
+Yes,Lieutenant,Navy,4,30,Both,Canada
+No,Captain,Artillery,3,32,Both,USA
+No,Captain,Artillery,1,59,Physical,Canada
+Yes,Sergeant,Infantry,2,50,Psychological,Australia
+Yes,Lieutenant,Medic,3,26,Physical,UK
+No,Corporal,Air Force,5,37,Both,USA
+Yes,Sergeant,Navy,3,37,Both,UK
+Yes,Corporal,Infantry,2,34,None,USA
+Yes,Corporal,Artillery,4,35,None,Germany
+Yes,Sergeant,Navy,3,33,Physical,USA
+Yes,Sergeant,Artillery,5,23,None,USA
+No,Private,Medic,1,38,Physical,Canada
+No,Private,Navy,3,51,Physical,Australia
+Yes,Lieutenant,Artillery,2,55,Psychological,Germany
+Yes,Corporal,Air Force,3,30,None,Germany
+No,Private,Medic,3,53,Physical,Australia
+No,Private,Air Force,2,27,Physical,Australia
+No,Captain,Infantry,3,27,None,UK
+Yes,Corporal,Artillery,1,51,Psychological,Germany
+No,Captain,Navy,2,48,Physical,Canada
+Yes,Private,Air Force,4,31,None,Canada
+Yes,Sergeant,Navy,3,42,Psychological,Australia
+No,Sergeant,Medic,3,55,Both,Germany
+Yes,Lieutenant,Air Force,3,35,Psychological,Australia
+No,Lieutenant,Artillery,2,22,Psychological,UK
+Yes,Lieutenant,Air Force,5,56,None,USA
+Yes,Private,Infantry,3,19,Physical,USA
+Yes,Captain,Infantry,2,22,None,USA
+Yes,Captain,Infantry,2,55,Physical,USA
+No,Private,Infantry,2,34,Psychological,Australia
+Yes,Lieutenant,Navy,2,48,Psychological,Canada
+Yes,Lieutenant,Medic,3,52,Physical,UK
+Yes,Lieutenant,Air Force,4,24,Both,UK
+Yes,Lieutenant,Medic,4,26,None,Canada
+No,Captain,Artillery,5,36,Physical,USA
+No,Lieutenant,Navy,4,26,None,Australia
+Yes,Captain,Medic,4,53,Both,Germany
+No,Private,Artillery,1,23,Both,Germany
+Yes,Private,Navy,5,46,None,Australia
+No,Lieutenant,Navy,3,31,Physical,Canada
+No,Sergeant,Artillery,4,59,Psychological,Australia
+Yes,Captain,Infantry,3,32,Both,Canada
+Yes,Captain,Infantry,2,34,Physical,Australia
+Yes,Captain,Medic,3,44,Physical,Australia
+No,Captain,Artillery,5,44,Psychological,UK
+Yes,Sergeant,Navy,5,18,Both,UK
+No,Captain,Air Force,3,28,Psychological,Australia
+Yes,Sergeant,Medic,1,56,Physical,Canada
+Yes,Private,Air Force,5,40,Both,UK
+No,Lieutenant,Navy,1,33,Psychological,Australia
+Yes,Sergeant,Infantry,4,54,Physical,USA
+No,Corporal,Air Force,2,30,Physical,Australia
+No,Private,Navy,2,47,Both,Germany
+No,Sergeant,Navy,3,23,Both,Australia
+Yes,Corporal,Air Force,2,35,Psychological,USA
+No,Lieutenant,Medic,3,42,None,Canada
+No,Captain,Medic,2,50,None,Germany
+Yes,Sergeant,Medic,3,29,None,Canada
+No,Corporal,Medic,2,57,Psychological,USA
+Yes,Lieutenant,Navy,1,56,None,Germany
+Yes,Captain,Medic,5,51,Both,USA
+Yes,Lieutenant,Infantry,5,41,Psychological,Canada
+Yes,Sergeant,Infantry,3,25,Physical,UK
+No,Captain,Infantry,1,22,Psychological,USA
+No,Corporal,Navy,3,39,Physical,Canada
+Yes,Private,Artillery,1,28,Physical,UK
+Yes,Sergeant,Artillery,3,19,Psychological,Germany
+Yes,Captain,Medic,2,37,None,Germany
+Yes,Sergeant,Air Force,1,44,Both,UK
+No,Captain,Navy,3,39,None,UK
+No,Captain,Infantry,4,31,None,USA
+No,Lieutenant,Artillery,5,29,Psychological,Germany
+No,Private,Infantry,1,21,None,Canada
+No,Corporal,Air Force,3,40,Both,Canada
+No,Captain,Artillery,5,42,None,Germany
+No,Lieutenant,Air Force,5,18,Psychological,UK
+Yes,Captain,Infantry,1,54,Physical,Australia
+No,Corporal,Medic,3,57,None,Australia
+No,Captain,Medic,3,49,Both,Germany
+Yes,Sergeant,Artillery,3,51,Psychological,USA
+No,Sergeant,Navy,4,25,Psychological,USA
+No,Private,Air Force,3,28,None,Germany
+Yes,Captain,Medic,1,28,None,Australia
+No,Lieutenant,Medic,3,43,Psychological,UK
+No,Captain,Artillery,3,26,None,UK
+Yes,Corporal,Infantry,2,26,Both,Australia
+Yes,Captain,Artillery,5,60,None,Canada
+No,Private,Navy,2,43,Physical,USA
+No,Lieutenant,Navy,1,23,None,Canada
+No,Captain,Medic,4,20,Physical,Canada
+Yes,Corporal,Infantry,1,48,Physical,USA
+No,Sergeant,Navy,5,32,Physical,Canada
+No,Sergeant,Artillery,5,36,Psychological,Germany
+Yes,Corporal,Infantry,4,34,Psychological,UK
+Yes,Captain,Air Force,5,49,Both,Canada
+Yes,Lieutenant,Infantry,4,60,Physical,Canada
+No,Corporal,Navy,4,49,None,UK
+No,Lieutenant,Navy,1,48,None,Germany
+No,Captain,Navy,3,28,None,Australia
+Yes,Captain,Medic,4,49,Both,Australia
+No,Captain,Navy,1,56,None,Germany
+No,Corporal,Medic,2,39,Psychological,UK
+Yes,Corporal,Navy,2,24,Both,Canada
+No,Corporal,Infantry,5,47,Both,UK
+Yes,Captain,Air Force,4,30,Both,UK
+No,Sergeant,Air Force,4,29,Psychological,Australia
+Yes,Lieutenant,Artillery,4,21,Psychological,Canada
+No,Captain,Infantry,3,41,Psychological,Canada
+Yes,Corporal,Navy,5,31,Both,UK
+No,Lieutenant,Navy,1,46,Both,Germany
+No,Lieutenant,Medic,4,44,Both,Canada
+Yes,Corporal,Infantry,2,37,None,Germany
+No,Captain,Medic,3,41,Both,UK
+Yes,Private,Artillery,4,38,Psychological,Australia
+No,Lieutenant,Medic,4,20,Psychological,UK
+No,Private,Air Force,4,28,Physical,UK
+No,Corporal,Infantry,4,60,Psychological,Germany
+Yes,Sergeant,Navy,1,42,Both,UK
+Yes,Lieutenant,Navy,1,20,Psychological,Australia
+No,Corporal,Navy,1,59,None,Germany
+Yes,Sergeant,Infantry,1,37,Both,Germany
+No,Captain,Medic,2,44,Both,UK
+No,Captain,Medic,1,21,Physical,UK
+Yes,Lieutenant,Infantry,5,45,Both,UK
+Yes,Lieutenant,Air Force,5,21,Physical,USA
+No,Corporal,Infantry,1,22,Psychological,USA
+Yes,Corporal,Artillery,3,39,Both,UK
+No,Sergeant,Artillery,1,41,None,Canada
+Yes,Sergeant,Air Force,1,36,None,USA
+Yes,Private,Navy,5,60,None,UK
+No,Private,Air Force,1,57,Physical,Germany
+No,Lieutenant,Navy,3,41,Physical,Canada
+Yes,Captain,Infantry,2,20,Psychological,Canada
+Yes,Sergeant,Navy,5,51,Psychological,Australia
+No,Corporal,Air Force,1,60,Physical,USA
+Yes,Lieutenant,Artillery,5,38,Both,Australia
+No,Lieutenant,Navy,3,28,Psychological,Canada
+Yes,Lieutenant,Navy,3,48,None,Australia
+Yes,Corporal,Medic,5,20,None,UK
+No,Lieutenant,Navy,1,52,Physical,USA
+No,Sergeant,Navy,3,50,Psychological,Canada
+Yes,Sergeant,Air Force,4,49,Both,UK
+Yes,Lieutenant,Infantry,2,33,Both,Canada
+No,Corporal,Air Force,4,25,None,Germany
+Yes,Captain,Navy,5,60,None,Germany
+No,Captain,Infantry,3,38,Psychological,USA
+Yes,Lieutenant,Infantry,2,27,Physical,Australia
+No,Lieutenant,Infantry,4,55,Both,Canada
+No,Private,Artillery,1,18,Physical,Australia
+No,Private,Air Force,2,22,Physical,Germany
+No,Sergeant,Infantry,3,40,None,Australia
+Yes,Sergeant,Infantry,3,23,Psychological,USA
+Yes,Sergeant,Navy,5,43,Psychological,USA
+No,Captain,Infantry,1,27,None,Germany
+No,Corporal,Infantry,2,39,Psychological,USA
+No,Corporal,Air Force,5,42,Physical,UK
+No,Private,Artillery,4,34,Psychological,USA
+Yes,Captain,Navy,3,27,Psychological,Germany
+Yes,Corporal,Navy,3,33,Both,Australia
+No,Corporal,Medic,3,53,Both,USA
+No,Lieutenant,Artillery,3,31,None,USA
+Yes,Private,Artillery,3,22,Physical,Germany
+Yes,Corporal,Navy,2,40,None,Canada
+Yes,Lieutenant,Artillery,1,20,None,Germany
+Yes,Lieutenant,Navy,4,53,None,Germany
+Yes,Captain,Air Force,3,59,None,UK
+Yes,Sergeant,Navy,3,30,Psychological,Australia
+Yes,Lieutenant,Infantry,5,33,Both,Australia
+Yes,Corporal,Infantry,4,35,None,Australia
+No,Private,Air Force,3,53,Both,USA
+No,Corporal,Medic,2,47,None,Canada
+No,Private,Air Force,5,24,None,UK
+No,Sergeant,Medic,5,31,Physical,Canada
+No,Corporal,Infantry,3,53,None,Germany
+No,Sergeant,Medic,1,48,Psychological,UK
+No,Captain,Navy,3,56,Psychological,Australia
+No,Private,Infantry,2,36,Physical,Australia
+No,Lieutenant,Navy,5,53,Both,Canada
+No,Captain,Medic,5,44,Both,UK
+No,Sergeant,Navy,5,47,Physical,UK
+No,Private,Infantry,4,33,Both,UK
+No,Private,Medic,4,34,None,Canada
+Yes,Captain,Infantry,4,55,Psychological,Canada
+Yes,Sergeant,Navy,2,51,None,Canada
+Yes,Private,Air Force,1,32,None,Canada
+No,Lieutenant,Infantry,2,46,Both,Canada
+Yes,Lieutenant,Artillery,3,38,None,Germany
+No,Corporal,Infantry,4,25,Both,UK
+No,Corporal,Air Force,1,29,Physical,Australia
+Yes,Private,Artillery,2,50,None,Germany
+Yes,Captain,Navy,1,40,None,UK
+No,Lieutenant,Infantry,2,39,Psychological,USA
+Yes,Lieutenant,Infantry,2,26,Physical,USA
+Yes,Sergeant,Infantry,4,21,Both,UK
+Yes,Captain,Medic,1,36,Psychological,UK
+No,Private,Artillery,4,28,Physical,Australia
+Yes,Captain,Air Force,5,56,Both,USA
+No,Lieutenant,Infantry,1,31,None,USA
+No,Lieutenant,Navy,2,33,None,Canada
+No,Private,Navy,1,33,None,UK
+Yes,Captain,Artillery,1,43,Psychological,Australia
+Yes,Lieutenant,Medic,2,35,Physical,Germany
+No,Lieutenant,Infantry,3,57,Both,Canada
+Yes,Private,Medic,2,54,Both,Canada
+Yes,Captain,Air Force,1,46,Both,Australia
+Yes,Private,Air Force,5,39,Physical,Germany
+Yes,Captain,Air Force,1,32,None,Canada
+Yes,Captain,Infantry,5,20,None,UK
+Yes,Sergeant,Artillery,2,20,None,Australia
+Yes,Corporal,Infantry,3,27,Psychological,Canada
+Yes,Sergeant,Infantry,3,51,Physical,USA
+Yes,Lieutenant,Navy,5,60,Both,Australia
+No,Sergeant,Air Force,2,46,Psychological,Australia
+No,Sergeant,Navy,4,52,Physical,UK
+Yes,Sergeant,Medic,3,20,Psychological,UK
+No,Corporal,Air Force,1,41,None,Australia
+Yes,Private,Infantry,5,58,Psychological,Germany
+Yes,Private,Navy,5,44,Both,Australia
+Yes,Corporal,Artillery,2,42,Physical,Germany
+No,Lieutenant,Air Force,5,37,Psychological,Canada
+Yes,Private,Air Force,5,46,None,USA
+No,Captain,Artillery,1,51,Physical,USA
+No,Sergeant,Air Force,5,48,Physical,USA
+No,Private,Medic,3,59,Physical,Germany
+Yes,Private,Infantry,1,29,None,Germany
+No,Corporal,Artillery,4,40,Physical,Australia
+No,Sergeant,Artillery,5,18,None,USA
+No,Private,Air Force,2,30,Physical,Germany
+Yes,Private,Air Force,3,32,Physical,Australia
+Yes,Private,Air Force,5,29,Physical,UK
+Yes,Private,Navy,3,51,Both,Australia
+Yes,Private,Air Force,4,60,Physical,Germany
+Yes,Corporal,Navy,2,39,None,Canada
+No,Sergeant,Infantry,2,45,Psychological,Canada
+Yes,Corporal,Navy,5,43,Psychological,UK
+No,Sergeant,Artillery,2,44,Both,Australia
+No,Captain,Air Force,3,40,Psychological,Australia
+No,Private,Artillery,2,20,Both,Germany
+No,Private,Navy,5,51,None,USA
+No,Lieutenant,Navy,3,50,Psychological,UK
+Yes,Private,Navy,4,48,Both,Canada
+Yes,Captain,Medic,5,60,Both,Germany
+No,Lieutenant,Navy,2,39,Psychological,Australia
+Yes,Sergeant,Medic,4,41,Psychological,Canada
+No,Captain,Navy,1,38,None,Canada
+No,Captain,Artillery,3,27,Physical,Australia
+No,Lieutenant,Artillery,4,26,Psychological,Canada
+No,Private,Navy,2,18,Both,UK
+No,Private,Medic,2,49,None,Australia
+Yes,Corporal,Navy,5,32,Psychological,UK
+Yes,Corporal,Air Force,1,49,None,Germany
+Yes,Sergeant,Navy,5,51,Physical,Canada
+Yes,Lieutenant,Air Force,2,38,Psychological,Australia
+No,Lieutenant,Air Force,4,55,Psychological,Canada
+No,Sergeant,Artillery,5,32,Both,Australia
+Yes,Private,Artillery,4,40,Physical,Australia
+No,Private,Artillery,1,26,None,UK
+Yes,Private,Air Force,3,35,Psychological,USA
+Yes,Corporal,Air Force,3,46,Both,USA
+Yes,Lieutenant,Medic,4,38,Physical,Australia
+Yes,Lieutenant,Artillery,5,25,Both,Australia
+Yes,Sergeant,Medic,2,38,Both,Germany
+No,Corporal,Artillery,1,18,Physical,USA
+No,Captain,Air Force,1,52,Psychological,Australia
+No,Captain,Infantry,4,37,Both,Canada
+No,Private,Artillery,5,46,Physical,Canada
+Yes,Corporal,Navy,2,38,Physical,Australia
+No,Captain,Navy,4,33,None,Canada
+No,Private,Artillery,2,24,None,Germany
+No,Lieutenant,Artillery,3,49,Physical,UK
+No,Lieutenant,Air Force,5,37,Both,UK
+No,Private,Artillery,5,38,Physical,Australia
+Yes,Lieutenant,Artillery,3,60,Psychological,Germany
+No,Corporal,Artillery,2,43,Psychological,Australia
+Yes,Private,Air Force,2,54,Both,USA
+Yes,Captain,Navy,1,22,Psychological,Germany
+No,Private,Navy,5,29,Psychological,Germany
+Yes,Sergeant,Artillery,5,24,Physical,Canada
+No,Sergeant,Artillery,5,27,Psychological,UK
+No,Lieutenant,Medic,2,57,Both,Germany
+Yes,Corporal,Navy,4,24,Psychological,Canada
+No,Captain,Navy,2,30,Physical,Australia
+Yes,Captain,Medic,5,34,Psychological,USA
+Yes,Private,Air Force,1,44,Both,USA
+No,Sergeant,Air Force,2,40,Both,Australia
+No,Private,Medic,1,53,None,USA
+No,Private,Artillery,4,49,Psychological,UK
+Yes,Private,Navy,5,35,Physical,Germany
+No,Lieutenant,Navy,4,43,Physical,Australia
+Yes,Corporal,Navy,1,44,None,Australia
+Yes,Lieutenant,Navy,1,37,None,Germany
+Yes,Captain,Medic,3,27,Both,Germany
+Yes,Captain,Navy,1,37,Psychological,Australia
+Yes,Sergeant,Air Force,1,58,Psychological,Australia
+Yes,Captain,Artillery,1,27,Both,UK
+No,Captain,Air Force,3,21,Both,UK
+Yes,Corporal,Air Force,4,59,None,Canada
+Yes,Lieutenant,Medic,3,42,Both,Australia
+No,Sergeant,Air Force,3,32,Physical,Germany
+No,Captain,Infantry,1,27,None,UK
+No,Private,Infantry,4,24,None,UK
+No,Captain,Air Force,1,18,Psychological,USA
